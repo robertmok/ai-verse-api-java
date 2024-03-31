@@ -1,4 +1,4 @@
-package com.aiverse.aiapi;
+package com.ai_verse.ai_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

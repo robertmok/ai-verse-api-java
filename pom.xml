@@ -8,10 +8,10 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ai-verse</groupId>
+	<groupId>com.ai_verse</groupId>
 	<artifactId>ai-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ai-api</name>
+	<name>ai_api</name>
 	<description>AI Verse API using Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
