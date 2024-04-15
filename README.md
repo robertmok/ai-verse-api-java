@@ -1,4 +1,4 @@
-# AI Verse API (JAVA Edition)
+# AI Verse API (Java Edition)
 
 ## WIP
 
