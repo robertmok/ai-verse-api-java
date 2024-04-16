@@ -1,13 +1,13 @@
 package com.ai_verse.ai_api.model;
 
+import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.ai.ollama.api.OllamaApi;
 
 import java.util.List;
 
-@Setter
-@Getter
+@Data
 public class PostChatRequest {
     private List<OllamaApi.Message> history;
     private String model;
