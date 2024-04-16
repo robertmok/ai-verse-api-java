@@ -24,7 +24,8 @@ The API for [AI Verse connecting with Java API](https://github.com/robertmok/ai-
 
 ## Limitations
 
-- no cancellation when it is generating response.
+- No cancellation when it is generating response.
+- The endpoint returning the **server-side-events** stream is global, it is not client or http request specific.
 
 ## Checkout the other **AI Verse** repos:
 
